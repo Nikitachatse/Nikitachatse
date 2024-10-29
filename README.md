@@ -34,4 +34,4 @@ Add badges to represent the tools you use. Example:
 
 ```markdown
 ### 🛠 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,power bi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,powerbi)](https://skillicons.dev)
