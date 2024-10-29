@@ -54,4 +54,4 @@ Here are some projects I’ve worked on that showcase my expertise:
 
 ## 💡 Fun Fact
 
-I participated in multiple inter-college hackathons and built projects like a **Library Management System** and a **Sales Analysis Dashboard**.
+I participated in multiple inter-college hackathons and built projects like a **Library Management System** and a **Placement Portal**.
