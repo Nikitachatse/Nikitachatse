@@ -1,21 +1,39 @@
 # Hi there, I'm Nikita! 👋
 
-I'm a Data Analyst passionate about tech, especially databases and data analysis. Currently pursuing my undergraduate degree and refining my skills in Python, SQL, and Machine Learning.
+### 👨‍💻 About Me:
+- 🎓 I completed my **B.Tech in Computer Science and Engineering (CSE)**.
+- 🎯 **Data Analyst** student at Masai, specializing in Data Analysis and Machine Learning.
+- 📊 Passionate about data, analysis, and turning insights into impactful decisions.
+- 🌱 Currently diving deep into **Machine Learning** and **Web Scraping**.
 
-## 🛠️ Tech Stack
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-- **Tools**: ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=Power-BI&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white)
+### 🛠 Tech Stack:
+- **Programming Languages:** Python (pandas, matplotlib, seaborn, NumPy, scikit-learn), MySQL
+- **Tools & Platforms:** Power BI, Excel, Git, Jupyter Notebook, VS Code
+- **Web Scraping:** BeautifulSoup, Selenium
 
-## 🚀 Projects
-- **Airline System Database**: Designed a database structure for an airline system using MySQL. [Repository Link](#)
-- **California Housing Price Prediction**: Developed a machine learning model using scikit-learn to predict housing prices in California. [Repository Link](#)
+### 🚀 Projects:
+- **Sales Analysis Dashboard:** Created a comprehensive sales dashboard using Power BI to visualize key sales metrics.
+- **Crime Analysis Dashboard:** Analyzed and visualized crime data using Python and Power BI to identify crime trends.
+- **HR Analytics Dashboard:** Built an HR analytics dashboard to explore employee data and key HR metrics.
+- **BMI Analysis:** Developed a BMI analysis project using Python to assess and visualize BMI trends.
 
-## 📊 GitHub Stats
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+### 📫 How to reach me:
+- **LinkedIn:** [Your LinkedIn Profile URL](#)
+- **Email:** [Your Email Address](mailto:#)
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+---
 
-## 📫 How to reach me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINK)
-- **Email**: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+### Step 3: Add Sections as Needed
+You can expand this README by adding sections like:
+- **Certifications**
+- **Interests & Hobbies**
+- **GitHub Stats** (Using GitHub Stats Cards like `![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)`)
+
+### Step 4: Add Visuals & Badges
+Add badges to represent the tools you use. Example:
+
+```markdown
+### 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
