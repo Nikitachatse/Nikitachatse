@@ -18,8 +18,8 @@
 - **BMI Analysis:** Developed a BMI analysis project using Python to assess and visualize BMI trends.
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Your LinkedIn Profile URL](#)
-- **Email:** [Your Email Address](mailto:#)
+- **LinkedIn:** [www.linkedin.com/in/nikitachatse](#)
+- **Email:** [chatsenikita2@gmail.com](mailto:#)
 
 ---
 
